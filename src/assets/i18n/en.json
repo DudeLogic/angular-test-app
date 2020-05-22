@@ -1,0 +1,22 @@
+{
+  "HOME": {
+    "TITLE": "Tour of Heroes",
+    "DASHBOARD": "Dashboard",
+    "HEROES": "Heroes"
+  },
+  "DASHBOARD": {
+    "TOP": "Top Heroes"
+  },
+  "HEROES": {
+    "LIST": "Heroes List"
+  },
+  "HERODETAIL": {
+    "DETAILS": "Details",
+    "GOBACK": "go back"
+  },
+  "NGRX": {
+    "COUNTER":"ngrx counter",
+    "CURRENTCOUNT": "Current count",
+    "SAMECURRENTCOUNT": "Same above Current count"
+  }
+}

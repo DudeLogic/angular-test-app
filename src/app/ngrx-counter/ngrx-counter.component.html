@@ -1,0 +1,6 @@
+<br>
+<button id="increment" (click)="increment()">Increment</button>
+<div>{{'NGRX.CURRENTCOUNT' | translate}}: {{ count$ | async  }}</div>
+<div>{{'NGRX.SAMECURRENTCOUNT'  | translate}}: {{nano}}</div>
+<button id="decrement" (click)="decrement()">Decrement</button>
+<button id="reset" (click)="reset()">Reset Counter</button>

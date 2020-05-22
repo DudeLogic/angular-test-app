@@ -1,6 +1,7 @@
 # TourOfHeroes
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.6.
+* This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.6.
+* It's just a test app, that features a basic start to angular, routing with lazy loading and localization using `ngx-translate`
 
 ## Development server
 

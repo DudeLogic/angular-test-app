@@ -1,0 +1,23 @@
+{
+  "HOME": {
+    "TITLE": "വീരന്മാരുടെ പര്യടനം",
+    "DASHBOARD": "ഡാഷ്ബോർഡ്",
+    "HEROES": "വീരന്മാർ"
+  },
+  "DASHBOARD": {
+    "TOP": "മികച്ച വീരന്മാർ"
+  },
+  "HEROES": {
+    "LIST": "വീരന്മാരുടെ പട്ടിക"
+  },
+  "HERODETAIL": {
+    "DETAILS": "വിശദാംശങ്ങൾ",
+    "GOBACK": "മടങ്ങിപ്പോവുക"
+  },
+  "NGRX": {
+    "COUNTER":"ngrx എണ്ണാൻ",
+    "CURRENTCOUNT": "നിലവിലെ എണ്ണം",
+    "SAMECURRENTCOUNT": "മുകളിലുള്ള അതേ നിലവിലെ എണ്ണം"
+  }
+
+}
